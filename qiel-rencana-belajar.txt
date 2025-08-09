@@ -5,3 +5,5 @@ Rencana Belajar
   * Setelah selesai wpu
 - Belajar Bahasa Lain
  * bahasa apa ya
+ * Golang
+ * Kotlin
