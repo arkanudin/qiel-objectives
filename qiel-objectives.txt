@@ -1,0 +1,4 @@
+QIEL OBJECTIVES
+- Mempelajari Laravel 5x seminggu
+- Membuat 2 Portofolio
+- Mencoba apply sebagai Laravel Developer
