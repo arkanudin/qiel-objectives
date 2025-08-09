@@ -4,4 +4,3 @@ QIEL OBJECTIVES
 - Mencoba apply sebagai Laravel Developer
 - Mempelajari Front=end stack
 - belajar react.js
-- belajar cybersecurity
